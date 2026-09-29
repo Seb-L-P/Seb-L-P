@@ -1,10 +1,7 @@
 ## Sebastian Leeming-Price
 
 Second-year Electrical & Electronic Engineering at Imperial College London.
-Most of what I build sits where numerical methods meet systems programming —
-pricing models that have to agree with each other, matching engines where the
-unit of measurement is nanoseconds, and backtests built to be falsified rather
-than admired.
+
 
 ### Projects
 
